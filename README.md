@@ -37,16 +37,16 @@ I’m a Passionate about Software and Video Game Development with a love for Tec
 ---
 
 ### 🔭 Currently working on
-<!-- Write here what you are currently working on -->
+NAOS
 
 ### 🌱 Currently learning
-<!-- Write here what you are currently learning -->
+CS26
 
 ### 👯 Looking to collaborate on
-<!-- Write here what kind of projects or topics you want to collaborate on -->
+Videgames
 
 ### 🤔 Looking for help with
-<!-- Write here what you would like help or guidance with -->
+Nothing yet ;)
 
 ---
 
