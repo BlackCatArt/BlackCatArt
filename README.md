@@ -12,15 +12,6 @@ I’m a Passionate about Software and Video Game Development with a love for Tec
 
 ---
 
-## ⚡ What I do
-
-* **Software and systems development**
-* Academic projects taken to a real‑world level
-* Automation and digital solutions
-* Constant exploration of new technologies
-
----
-
 ### 🧰 Tech Stack
 
 #### Languages
@@ -43,24 +34,26 @@ I’m a Passionate about Software and Video Game Development with a love for Tec
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=visualstudiocode)
 
+---
 
-## 🚀 Projects that define my journey
+### 🔭 Currently working on
+<!-- Write here what you are currently working on -->
 
-* 🟣 **NAOS – Nocturne Art Online System**
-  Platform focused on digital management and commercialization
+### 🌱 Currently learning
+<!-- Write here what you are currently learning -->
 
-* 🔵 **Academic projects**
-  Systems, analysis, and development beyond the classroom
+### 👯 Looking to collaborate on
+<!-- Write here what kind of projects or topics you want to collaborate on -->
 
-* 🟢 **Prototypes & Experiments**
-  New ideas in testing phase
+### 🤔 Looking for help with
+<!-- Write here what you would like help or guidance with -->
 
 ---
 
 ## 🤝 Let’s connect
 
-* 📩 Email: [uzedagrajedadiegor@gmail.com](mailto:uzedagrajedadiegor@gmail.com)
+* 📩 Email: uzedagrajedadiegor@gmail.com
 
 ---
 
-✨ If something here inspires you, feel free to follow me or explore my repositories. This is just the beginning.
+✨ If something here likes you, feel free to follow me or explore my repositories.
