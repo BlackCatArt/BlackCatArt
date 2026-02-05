@@ -29,15 +29,17 @@ I’m a student and developer passionate about technology, software, and buildin
 
 ### 🧰 Tech Stack
 
+### 🧰 Tech Stack
+
 #### Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=database)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql)
 
 #### Web
-![HTML](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
 
 #### Databases
@@ -48,7 +50,6 @@ I’m a student and developer passionate about technology, software, and buildin
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=visualstudiocode)
-
 
 
 ## 🚀 Projects that define my journey
