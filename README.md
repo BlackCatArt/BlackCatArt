@@ -27,36 +27,87 @@ I’m a student and developer passionate about technology, software, and buildin
 
 ## 🧰 Tech Stack
 
-**Languages**
+<!-- TECH STACK -->
+<div align="left">
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-</p>
+  <!-- Languages -->
+  <h3>Languages</h3>
+  <div style="display:flex; flex-wrap:wrap;">
+    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
+      <span style="color:#fff; margin-left:10px;">Python</span>
+    </div>
 
-**Web**
+    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
+      <span style="color:#fff; margin-left:10px;">Java</span>
+    </div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-</p>
+    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
+      <span style="color:#fff; margin-left:10px;">JavaScript</span>
+    </div>
 
-**Databases**
+    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
+      <span style="color:#fff; margin-left:10px;">SQL</span>
+    </div>
+  </div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-</p>
+  <!-- Web -->
+  <h3>Web</h3>
+  <div style="display:flex; flex-wrap:wrap;">
+    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/>
+      <span style="color:#fff; margin-left:10px;">HTML</span>
+    </div>
 
-**Tools**
+    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32"/>
+      <span style="color:#fff; margin-left:10px;">CSS</span>
+    </div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
+      <span style="color:#fff; margin-left:10px;">React</span>
+    </div>
+  </div>
+
+  <!-- Databases -->
+  <h3>Databases</h3>
+  <div style="display:flex; flex-wrap:wrap;">
+    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
+      <span style="color:#fff; margin-left:10px;">MySQL</span>
+    </div>
+
+    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/>
+      <span style="color:#fff; margin-left:10px;">PostgreSQL</span>
+    </div>
+  </div>
+
+  <!-- Tools -->
+  <h3>Tools</h3>
+  <div style="display:flex; flex-wrap:wrap;">
+    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
+      <span style="color:#fff; margin-left:10px;">Git</span>
+    </div>
+
+    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
+      <span style="color:#fff; margin-left:10px;">GitHub</span>
+    </div>
+
+    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/>
+      <span style="color:#fff; margin-left:10px;">VS Code</span>
+    </div>
+  </div>
+
+</div>
+
 
 ## 🚀 Projects that define my journey
 
