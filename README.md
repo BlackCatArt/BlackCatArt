@@ -30,29 +30,79 @@ I’m a student and developer passionate about technology, software, and buildin
 <!-- TECH STACK -->
 <div align="left">
 
-  <!-- Languages -->
   <h3>Languages</h3>
   <div style="display:flex; flex-wrap:wrap;">
-    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
-      <span style="color:#fff; margin-left:10px;">Python</span>
+      <span style="margin-left:8px;">Python</span>
     </div>
 
-    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
-      <span style="color:#fff; margin-left:10px;">Java</span>
+      <span style="margin-left:8px;">Java</span>
     </div>
 
-    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
-      <span style="color:#fff; margin-left:10px;">JavaScript</span>
+      <span style="margin-left:8px;">JavaScript</span>
     </div>
 
-    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
+    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
-      <span style="color:#fff; margin-left:10px;">SQL</span>
+      <span style="margin-left:8px;">SQL</span>
     </div>
   </div>
+
+  <h3>Web</h3>
+  <div style="display:flex; flex-wrap:wrap;">
+    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/>
+      <span style="margin-left:8px;">HTML</span>
+    </div>
+
+    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32"/>
+      <span style="margin-left:8px;">CSS</span>
+    </div>
+
+    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
+      <span style="margin-left:8px;">React</span>
+    </div>
+  </div>
+
+  <h3>Databases</h3>
+  <div style="display:flex; flex-wrap:wrap;">
+    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
+      <span style="margin-left:8px;">MySQL</span>
+    </div>
+
+    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/>
+      <span style="margin-left:8px;">PostgreSQL</span>
+    </div>
+  </div>
+
+  <h3>Tools</h3>
+  <div style="display:flex; flex-wrap:wrap;">
+    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
+      <span style="margin-left:8px;">Git</span>
+    </div>
+
+    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
+      <span style="margin-left:8px;">GitHub</span>
+    </div>
+
+    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/>
+      <span style="margin-left:8px;">VS Code</span>
+    </div>
+  </div>
+
+</div>
 
   <!-- Web -->
   <h3>Web</h3>
