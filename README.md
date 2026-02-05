@@ -57,18 +57,9 @@ I’m a Passionate about Software and Video Game Development with a love for Tec
 
 ---
 
-## 📈 GitHub stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=BlackCatArt\&show_icons=true\&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCatArt\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🤝 Let’s connect
 
-* 🐙 GitHub: [https://github.com/TU_USUARIO](https://github.com/TU_USUARIO)
-* 📩 Email: [yourmail@email.com](mailto:yourmail@email.com)
+* 📩 Email: [yourmail@email.com](mailto:uzedagrajedadiegor@gmail.com)
 
 ---
 
