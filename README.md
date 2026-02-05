@@ -59,7 +59,7 @@ I’m a Passionate about Software and Video Game Development with a love for Tec
 
 ## 🤝 Let’s connect
 
-* 📩 Email: [yourmail@email.com](mailto:uzedagrajedadiegor@gmail.com)
+* 📩 Email: [uzedagrajedadiegor@gmail.com](mailto:uzedagrajedadiegor@gmail.com)
 
 ---
 
