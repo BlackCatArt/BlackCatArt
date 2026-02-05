@@ -1,14 +1,10 @@
-# ✨ Hey, I'm Diego Uzeda
+# ✨ Hi, I'm Diego Uzeda
 
-💻 Developer | 🚀 Tech lover | 🎮 Digital culture
-
-Welcome to my GitHub profile. This is not just code: it’s **ideas**, **experiments**, and **projects with vision**.
-
----
+💻 Software Developer | 🎮 Video Game Developer | 🚀 Tech lover
 
 ## 🌎 Who I am
 
-I’m a student and developer passionate about technology, software, and building systems that **actually solve real‑world problems**. I enjoy building, testing, breaking, and improving things constantly.
+I’m a Passionate about Software and Video Game Development with a love for Technology.
 
 📍 Bolivia
 🧠 Mindset: always learning
@@ -24,10 +20,6 @@ I’m a student and developer passionate about technology, software, and buildin
 * Constant exploration of new technologies
 
 ---
-
-## 🧰 Tech Stack
-
-### 🧰 Tech Stack
 
 ### 🧰 Tech Stack
 
