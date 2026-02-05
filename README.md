@@ -27,136 +27,28 @@ I’m a student and developer passionate about technology, software, and buildin
 
 ## 🧰 Tech Stack
 
-<!-- TECH STACK -->
-<div align="left">
+### 🧰 Tech Stack
 
-  <h3>Languages</h3>
-  <div style="display:flex; flex-wrap:wrap;">
-    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
-      <span style="margin-left:8px;">Python</span>
-    </div>
+#### Languages
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=database)
 
-    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
-      <span style="margin-left:8px;">Java</span>
-    </div>
+#### Web
+![HTML](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3)
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
 
-    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
-      <span style="margin-left:8px;">JavaScript</span>
-    </div>
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
 
-    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
-      <span style="margin-left:8px;">SQL</span>
-    </div>
-  </div>
+#### Tools
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=visualstudiocode)
 
-  <h3>Web</h3>
-  <div style="display:flex; flex-wrap:wrap;">
-    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/>
-      <span style="margin-left:8px;">HTML</span>
-    </div>
-
-    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32"/>
-      <span style="margin-left:8px;">CSS</span>
-    </div>
-
-    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
-      <span style="margin-left:8px;">React</span>
-    </div>
-  </div>
-
-  <h3>Databases</h3>
-  <div style="display:flex; flex-wrap:wrap;">
-    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
-      <span style="margin-left:8px;">MySQL</span>
-    </div>
-
-    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/>
-      <span style="margin-left:8px;">PostgreSQL</span>
-    </div>
-  </div>
-
-  <h3>Tools</h3>
-  <div style="display:flex; flex-wrap:wrap;">
-    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
-      <span style="margin-left:8px;">Git</span>
-    </div>
-
-    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
-      <span style="margin-left:8px;">GitHub</span>
-    </div>
-
-    <div style="display:inline-flex; align-items:center; margin:6px 14px 6px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/>
-      <span style="margin-left:8px;">VS Code</span>
-    </div>
-  </div>
-
-</div>
-
-  <!-- Web -->
-  <h3>Web</h3>
-  <div style="display:flex; flex-wrap:wrap;">
-    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/>
-      <span style="color:#fff; margin-left:10px;">HTML</span>
-    </div>
-
-    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32"/>
-      <span style="color:#fff; margin-left:10px;">CSS</span>
-    </div>
-
-    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
-      <span style="color:#fff; margin-left:10px;">React</span>
-    </div>
-  </div>
-
-  <!-- Databases -->
-  <h3>Databases</h3>
-  <div style="display:flex; flex-wrap:wrap;">
-    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
-      <span style="color:#fff; margin-left:10px;">MySQL</span>
-    </div>
-
-    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/>
-      <span style="color:#fff; margin-left:10px;">PostgreSQL</span>
-    </div>
-  </div>
-
-  <!-- Tools -->
-  <h3>Tools</h3>
-  <div style="display:flex; flex-wrap:wrap;">
-    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
-      <span style="color:#fff; margin-left:10px;">Git</span>
-    </div>
-
-    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
-      <span style="color:#fff; margin-left:10px;">GitHub</span>
-    </div>
-
-    <div style="display:inline-flex; align-items:center; background:#000; border:2px solid #fff; border-radius:8px; padding:8px 14px; margin:6px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/>
-      <span style="color:#fff; margin-left:10px;">VS Code</span>
-    </div>
-  </div>
-
-</div>
 
 
 ## 🚀 Projects that define my journey
