@@ -1,6 +1,6 @@
 # ✨ Hi, I'm Diego Uzeda
 
-💻 Software Developer | 🎮 Video Game Developer | 🚀 Tech lover
+🧠 Computer Systems Engineer | 💻 Software Developer | 🎮 Video Game Developer | 🚀 Tech lover
 
 ## 🌎 Who I am
 
@@ -59,9 +59,9 @@ I’m a Passionate about Software and Video Game Development with a love for Tec
 
 ## 📈 GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=BlackCatArt\&show_icons=true\&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCatArt\&layout=compact\&theme=tokyonight)
 
 ---
 
