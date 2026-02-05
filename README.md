@@ -1,16 +1,72 @@
-## Hi there 👋
+# ✨ Hey, I'm Diego Uzeda
 
-<!--
-**BlackCatArt/BlackCatArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer | 🚀 Tech lover | 🎮 Digital culture
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. This is not just code: it’s **ideas**, **experiments**, and **projects with vision**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌎 Who I am
+
+I’m a student and developer passionate about technology, software, and building systems that **actually solve real‑world problems**. I enjoy building, testing, breaking, and improving things constantly.
+
+📍 Bolivia
+🧠 Mindset: always learning
+🔥 Goal: create useful, scalable, and impactful projects
+
+---
+
+## ⚡ What I do
+
+* **Software and systems development**
+* Academic projects taken to a real‑world level
+* Automation and digital solutions
+* Constant exploration of new technologies
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+`Python` · `Java` · `JavaScript` · `SQL`
+
+**Web**
+`HTML` · `CSS` · `React`
+
+**Databases**
+`MySQL` · `PostgreSQL`
+
+**Tools**
+`Git` · `GitHub` · `VS Code`
+
+---
+
+## 🚀 Projects that define my journey
+
+* 🟣 **NAOS – Nocturne Art Online System**
+  Platform focused on digital management and commercialization
+
+* 🔵 **Academic projects**
+  Systems, analysis, and development beyond the classroom
+
+* 🟢 **Prototypes & Experiments**
+  New ideas in testing phase
+
+---
+
+## 📈 GitHub stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🤝 Let’s connect
+
+* 🐙 GitHub: [https://github.com/TU_USUARIO](https://github.com/TU_USUARIO)
+* 📩 Email: [yourmail@email.com](mailto:yourmail@email.com)
+
+---
+
+✨ If something here inspires you, feel free to follow me or explore my repositories. This is just the beginning.
