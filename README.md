@@ -14,25 +14,45 @@ I’m a Passionate about Software and Video Game Development with a love for Tec
 
 ### 🧰 Tech Stack
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql)
+### 🧰 Technologies
 
-#### Web
+#### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3)
-![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat&logo=php)
 
-#### Databases
+#### 📱 Mobile Development
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin)
+
+#### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
 
-#### Tools
+#### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity)
+![C%23](https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp)
+
+#### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
+
+#### 📝 Code Editors / IDEs
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=visualstudiocode)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000?style=flat&logo=visualstudio)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea)
+
+#### 🧪 Virtualization / Containerization
+![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=flat&logo=virtualbox)
+![VMware](https://img.shields.io/badge/VMware-000000?style=flat&logo=vmware)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
+
+#### 🔄 Version Control
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=visualstudiocode)
+
+#### 📐 Methodologies
+![XP](https://img.shields.io/badge/Extreme%20Programming-000000?style=flat)
+![Scrum](https://img.shields.io/badge/SCRUM-000000?style=flat&logo=scrumalliance)
 
 ---
 
