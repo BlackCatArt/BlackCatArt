@@ -12,8 +12,6 @@ I’m a Passionate about Software and Video Game Development with a love for Tec
 
 ---
 
-### 🧰 Tech Stack
-
 ### 🧰 Technologies
 
 #### 🌐 Web Development
