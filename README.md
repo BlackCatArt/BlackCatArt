@@ -14,7 +14,7 @@ I’m a Passionate about Software and Video Game Development with a love for Tec
 
 ### 🧰 Skills
 
-#### Programming & Markup / Styles
+#### Programming Languages & Markup / Styles
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
